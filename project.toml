@@ -1,0 +1,8 @@
+
+[project]
+name = "Term"
+version = "0.1.0"
+authors = ["You"]
+edition = "2024"
+
+        
